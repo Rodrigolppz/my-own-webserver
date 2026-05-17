@@ -1,6 +1,7 @@
-# My WebServer
+The purpose of this simple project is to gain a deeper understanding of how a web server works under the hood. Basically, everything starts with a socket establishing the connection, and it was pretty fun to implement this in Python and actually see it working.
 
-The purpose of this simple project is to understand a little more of how a webserver works underneath the hood, basically everything starts with a socket estabilishing the connection and it was kinda fun to do with Python and really see that it works
+If you want to run it, just clone the repo and type:
 
+python3 main.py
 
-If you wanna run, just clone the repo and type -> python3 main.py, then you access your localhost and you're gonna see that it works =)
+Then access your localhost and you’ll see that it works =)
